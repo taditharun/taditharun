@@ -1,16 +1,24 @@
-## Hi there 👋
+ Hi, I'm Tharun 👋
 
-<!--
-**taditharun/taditharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third year CS student at Raghu Engineering College, India.
+I work with Python mostly on backend projects and REST APIs.
 
-Here are some ideas to get you started:
+## Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Active contributor at OWASP Nest
+- 🐛 Found and fixed a real bug on the chapters page — [PR #4296](https://github.com/OWASP/Nest/pull/4296)
+- 📋 Created issue [#4286](https://github.com/OWASP/Nest/issues/4286) with full reproduction steps
+
+## GSoC 2026
+
+Applying to OWASP Foundation for the Contributor Recognition 
+and Community Snapshots project at OWASP Nest.
+
+## Tech
+
+Python · Django · REST APIs · PostgreSQL · Next.js · GraphQL
+
+## Contact
+
+- 📧 taditharun8@gmail.com
+- 🔗 [OWASP Nest PR #4296](https://github.com/OWASP/Nest/pull/4296)
